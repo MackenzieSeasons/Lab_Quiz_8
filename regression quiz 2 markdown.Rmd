@@ -1,0 +1,26 @@
+---
+title: "Regression Lab Quiz 2"
+author: "Mackenzie Seasons"
+date: '2016-11-15'
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Question 4**
+
+a) Self esteem predicted an additional 22% of the variance in Academic Success beyond Positive Affectivity, sr2 = .22, 95% *CI* [.12, .33]. 
+
+b) Self esteem predicted an additional 23% of the variance in Academic Success beyond Negative Affectivity, sr2 = .23, 95% *CI* [.12, .33].
+
+c) Self esteem preducted an additional 21% of the variance in Academic Success beyond NAS and PAS combined, delta r2 = .21, 95% *CI* [.11, .31].
+
+
+**Overall APA Results Paragraph**
+
+I examined the extent to which self esteem contributed to the prediction of Academic Success beyond the variance accounted for by positive and negative affectivity (emotional state). Self esteem predicted alone predicted 25% of the variance in Academic Success, $*R^2*$ = .25, 95% *CI* [.15, .35]. Self esteem predicted  22% of the variance in Academic Success beyond Positive Affectivity, *$sr^2$* = .22, 95% *CI* [.12, .33] (see Table 3). Self esteem predicted 23% of the variance in Academic Success above and beyond Negative Affectivity, *$sr^2$* = .23, 95% *CI* [.12, .33] (see Table 4). Lastly, Self esteem predicted 21% of the variance in Academic Success beyond NAS and PAS combined, $\Delta$ *$r^2$* = .21, 95% *CI* [.11, .31] (see Table 5).
+
+
+
